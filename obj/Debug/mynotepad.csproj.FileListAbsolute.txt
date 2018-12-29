@@ -1,0 +1,14 @@
+d:\notepad\mynotepad\mynotepad\bin\Debug\mynotepad.exe.config
+d:\notepad\mynotepad\mynotepad\obj\Debug\mynotepad.csprojResolveAssemblyReference.cache
+d:\notepad\mynotepad\mynotepad\obj\Debug\hw1.notepad.resources
+d:\notepad\mynotepad\mynotepad\obj\Debug\mynotepad.Properties.Resources.resources
+d:\notepad\mynotepad\mynotepad\obj\Debug\mynotepad.csproj.GenerateResource.Cache
+d:\notepad\mynotepad\mynotepad\obj\Debug\hw1.Find.resources
+d:\notepad\mynotepad\mynotepad\obj\Debug\hw1.Goto.resources
+d:\notepad\mynotepad\mynotepad\obj\Debug\hw1.Replace.resources
+d:\notepad\mynotepad\mynotepad\obj\Debug\hw1.save.resources
+d:\notepad\mynotepad\mynotepad\obj\Debug\hw1.AboutBox1.resources
+d:\notepad\mynotepad\mynotepad\bin\Debug\mynotepad.exe
+d:\notepad\mynotepad\mynotepad\bin\Debug\mynotepad.pdb
+d:\notepad\mynotepad\mynotepad\obj\Debug\mynotepad.exe
+d:\notepad\mynotepad\mynotepad\obj\Debug\mynotepad.pdb
